@@ -15,7 +15,7 @@ main h2 {
 }
 
 section {
-    width: 70%;
+    width: 800px;
     margin: auto;
     margin-bottom: 70px;
 }
@@ -24,7 +24,7 @@ section p {
     text-align: justify;
     font-size: 1.1em;
     line-height: 1.5em;
-    padding: 12px;
+    padding: 12px 0px;
 }
 
 strong {
