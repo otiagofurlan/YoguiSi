@@ -21,6 +21,7 @@ section {
 }
 
 section p {
+    text-align: justify;
     font-size: 1.1em;
     line-height: 1.5em;
     padding: 12px;
@@ -51,6 +52,10 @@ strong {
 
     main h2 {
         font-size: 1.2em;
+    }
+
+    section p {
+        text-align: start;
     }
 
 }
